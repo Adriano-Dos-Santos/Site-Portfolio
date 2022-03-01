@@ -1,0 +1,116 @@
+body {
+    width:auto;
+    height: auto;   
+}
+
+
+
+
+/****Navegation bar*****/
+nav {
+    border-bottom: 5px solid black;
+    height: 80px;
+    background-color: #CFBAF0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+nav img {
+    height: 60px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+.navu {
+    display: flex;
+    float: right;
+ 
+}
+
+ul li {
+    margin-top: 27px;
+    margin-bottom: 27px;
+    margin-right: 30px;
+
+}
+
+ul a{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    text-decoration: none;    
+    color: #FDE4CF;
+    font-weight: 500;
+    line-height: 26px;
+}
+
+.downloadCV {
+    background-color: #A3C4F3;
+    box-sizing: border-box;
+    width: 170px;
+    height: 60px;
+    margin-top: 11px;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-left: 20px;
+    padding-right: 10px;
+    border: 0px solid black;
+    box-shadow: 6px 6px 1px black;
+}
+
+
+
+
+/*****Main Section**********/
+
+.main {
+    border-bottom: 5px solid black;
+    background-image: url(../images/anime-pic.png);
+    background-size: cover;
+    background-position: 100px 10px;
+    height: 807px;
+}
+
+.card {
+    border: 2px solid black;
+    width: 627px; 
+    height: 184px;
+    margin-left: 98px;
+    margin-top: 116px;
+    background-color: #F1C0E8;
+}
+
+.card h1 {
+    font-size: 40px;
+    color: #A3C4F3;
+    font-style: normal;
+    font-family: 'Press Start 2P', cursive;    
+    font-weight: normal;
+    line-height: 40px;
+    width: 560px;
+    height: 40px;
+    margin-left: 27px;
+    margin-right: 27px;
+    margin-top: 36px;
+    margin-bottom: 32px;
+
+}
+.card h2 {
+    font-size: 30px;
+    color: white;
+    font-style: normal;
+    font-weight: normal;
+    font-family: 'Press Start 2P', cursive;    
+    line-height: 30px;
+    width: 560px;
+    height: 30px;
+    margin-left: 40px;
+    margin-right: 47px;
+    margin-bottom: 44px;
+}
+
+/* ***************************/
+.skills {
+    height: 740px;
+    background-color: #A3C4F3;
+}
+/* ***************************/
+/* ***************************/
