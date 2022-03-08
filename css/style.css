@@ -7,6 +7,9 @@ body {
 
 
 /****Navegation bar*****/
+
+
+
 nav {
     border-bottom: 5px solid black;
     height: 80px;
@@ -61,6 +64,8 @@ ul a{
 
 
 /*****Main Section**********/
+
+
 
 
 .main {
@@ -120,9 +125,6 @@ ul a{
     position: relative; left: 64px;
     gap: 100px ;
     width: 600px;
-    
-
-
 }
 
 .main p {
@@ -150,7 +152,15 @@ ul a{
 .maincontatos, .maindownload {
     border-radius: 10px;
 }
+
+
+
+
 /* ***************************/
+
+
+
+
 .skills {
     height: 740px;
     background-color: #A3C4F3;
